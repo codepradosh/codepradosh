@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **codepradosh/codepradosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kanha930@gmail.com , https://www.linkedin.com/in/pradoshpriyadarshan/
 - 😄 Pronouns:  Break the wall!!
 - ⚡ Fun fact:  'The devil is at his strongest while we're looking the other way.' Like a program running in the background silently. While we're busy doing other shit.
--->
