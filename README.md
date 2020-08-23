@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **Deep Learning, NLP, Competitive Programming.**
+- 👯 I’m looking to collaborate on **Machine Learning, NLP, Competitive Programming.**
 
 - 🤝 I’m looking for help with **Open source and Research projects.**
 
