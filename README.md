@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data and prediction**
 
-- 📫 How to reach me **kanha930@gmail.com , https://www.linkedin.com/in/pradoshpriyadarshan/**
+- 📫 How to reach me **kanha930@gmail.com , https://www.linkedin.com/pradoshpriyadarshan/**
 
 - ⚡ Fun fact **'The devil is at his strongest while we're looking the other way.' Like a program running in the background silently. While we're busy doing other shit.**
 
