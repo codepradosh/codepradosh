@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, Friend!!</h1>
 <h3 align="center">Senior Computer Science undergraduate student with interests in Machine Learning and Natural Language Processing. Looking to collaborate on projects and research for the same.</h3>
 <h3 align="center"> Competitive Coder || Machine Learning Enthusiast || Open Source Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codepradosh" alt="codepradosh" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning, NLP, Competitive Programming.**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
